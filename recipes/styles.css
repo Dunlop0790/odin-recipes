@@ -1,0 +1,16 @@
+/* stylesheet */
+
+.title {
+    background-color: antiquewhite;
+}
+
+.title,
+.text {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(248, 219, 181);
+    font-family: Arial, Helvetica, sans-serif;
+}
